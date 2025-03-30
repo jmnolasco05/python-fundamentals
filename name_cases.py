@@ -1,4 +1,6 @@
 name = 'Eric'
+# Joan Nolasco 30/03/2024
+
 print(f'Hello, {name}, would you like to learn some Python today?')
 
 print(name.lower())
